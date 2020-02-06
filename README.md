@@ -7,8 +7,10 @@ This repository conains the following projects:
 1. [Phonebook-CLI](#Phonebook-CLI)
 2. [Express-API](#Express-API)
 
-#Phonebook-CLI
+# Phonebook-CLI
+
 A little about me
 
-#Express-API
+# Express-API
+
 Coming soon...
